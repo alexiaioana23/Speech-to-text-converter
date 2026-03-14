@@ -16,8 +16,6 @@ The application allows users to convert spoken audio into text either by uploadi
 - Streamlit
 - SpeechRecognition
 - PyAudio
-- tempfile
-- OS and Time modules
 
 ## How It Works
 
